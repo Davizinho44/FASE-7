@@ -1,6 +1,8 @@
 # FASE-7
 Consolidação de tecnologias
 
+Como a fase 7 é apra a consolidação das tecnologias e atividades realizadas, fora preciso aplicar mudanças significativas em algumas atividades para que fosse preciso unificar todas as fases; inicialmente tive um pouco de dificuldade em realizar a atividade 5 relacionada ao armazenamento das fases na nuvem, pois a mesma não foi exigida nas aulas, inclusive foi informado em uma das aulas que não precisariamos ciar nenhum repositorio na nuvem.
+
 Fase 1: Consolidação da base de dados estruturada através da modelagem de áreas de plantio e otimização do manejo de insumos. Essa estrutura serve como camada de ingestão para o ecossistema digital, viabilizando a análise estatística descritiva e inferencial dos dados via linguagem R.
 
 Fase 2 – Persistência e Estruturação de Dados: Desenvolvimento da arquitetura de dados relacional por meio da elaboração dos Modelos Entidade-Relacionamento (MER) e Conceitual/Lógico (DER). Esta estrutura realiza a ingestão e unificação dos dados de manejo agrícola originados na Fase 1, garantindo consistência transacional e integridade referencial para suportar análises analíticas futuras.
